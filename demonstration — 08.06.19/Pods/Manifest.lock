@@ -1,0 +1,20 @@
+PODS:
+  - JTAppleCalendar (7.1.5)
+  - RSDayFlow (1.7.0)
+
+DEPENDENCIES:
+  - JTAppleCalendar (~> 7.0)
+  - RSDayFlow
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JTAppleCalendar
+    - RSDayFlow
+
+SPEC CHECKSUMS:
+  JTAppleCalendar: 2d4f974f9f3c8b4964d51ca1f6e004883c031fbe
+  RSDayFlow: 5c3af19200155a956eda4b3a82fec4020e0b5ffd
+
+PODFILE CHECKSUM: 9491ac6f35ad591a010e7fdfbf69ec580e7c8769
+
+COCOAPODS: 1.7.0
